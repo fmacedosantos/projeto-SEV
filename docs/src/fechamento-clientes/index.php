@@ -13,7 +13,6 @@ class Fechamento {
         $this->valor = $valor;
     }
 
-    // Getters e Setters
     public function getIdFechamento() {
         return $this->idFechamento;
     }
