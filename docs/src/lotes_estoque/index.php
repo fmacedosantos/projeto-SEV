@@ -13,7 +13,6 @@ class Estoque {
         $this->caixaMoto = $caixaMoto;
     }
 
-    // Getters e Setters
     public function getIdEstoque() {
         return $this->idEstoque;
     }
