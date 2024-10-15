@@ -13,7 +13,6 @@ class Cliente {
         $this->telefone = $telefone;
     }
 
-    // Getters e Setters
     public function getCpf() {
         return $this->cpf;
     }
